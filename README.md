@@ -20,8 +20,7 @@
 <a href="https://media.giphy.com/media/J2Vw2WusrWeRqPvR0l"><img src="https://media.giphy.com/media/J2Vw2WusrWeRqPvR0l/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
-
+I was unable to paste the link of my gif inside the project folder it is in my repository.
 
 -------------------------
 
@@ -45,4 +44,4 @@ Describe any challenges encountered while building the app.
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I was unable to paste the link of my gif inside the project folder it is in my repository.
